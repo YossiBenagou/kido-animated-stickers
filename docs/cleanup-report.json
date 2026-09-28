@@ -1,0 +1,25 @@
+{
+  "source_images_before": 442,
+  "unique_source_images_preserved": 440,
+  "exact_duplicate_groups": [
+    [
+      "חבילה סופית/גלם_מאוחד/A/02.png",
+      "חבילה סופית/גלם_מאוחד/A/‏‏02 - עותק.png"
+    ],
+    [
+      "חבילה סופית/גלם_מאוחד/A/33.png",
+      "חבילה סופית/גלם_מאוחד/A/‏‏33 - עותק.png"
+    ]
+  ],
+  "removed": "Two byte-identical image copies and Python cache",
+  "moved": {
+    "חבילה סופית": "assets/source/collections",
+    "סטיקרים סופי": "assets/source/curated",
+    "מוצרים": "assets/reference/products",
+    "השוואת סגנונות": "assets/reference/style-studies",
+    "לוגו.png": "assets/reference/logo.png",
+    "original prompts": "docs/legacy",
+    "original generators": "scripts/legacy"
+  },
+  "credentials": "Embedded keys removed; use environment variables. No keys committed."
+}

@@ -1,0 +1,21 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 213134,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-18",
+    "verdict": "pass",
+    "evidence": "animations/boy-kippah-18/contact-sheet.jpg",
+    "caption_complete": true,
+    "character_intact": true,
+    "reason": "Open arms and inward hugging gestures clear; all six bust frames retain complete hands, arms, head and torso edge. No visible neighboring-pose fragments or extraction crop loss on either background.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

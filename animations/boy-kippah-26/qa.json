@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 263514,
+    "frames": 6,
+    "duration_ms": 2700,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-26",
+    "verdict": "pass",
+    "reason": "All six frames on light and dark retain intact good-night caption and complete child, teddy and quilt; subtle head/face changes fit sleeping, without unrelated pieces.",
+    "evidence": "animations/boy-kippah-26/contact-sheet.jpg; all six frames in both light and dark rows inspected",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

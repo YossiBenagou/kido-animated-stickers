@@ -1,0 +1,22 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 160858,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-05",
+    "verdict": "pass",
+    "evidence": "animations/boy-kippah-05/contact-sheet.jpg",
+    "caption_complete": true,
+    "character_intact": true,
+    "reason": "Victory gestures on stool; custom caption cutoff removes red fragment while retaining glyphs. Lower text margin is narrow but acceptable.",
+    "required_fix": null,
+    "verified_caption_crop_ratio": 0.21
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

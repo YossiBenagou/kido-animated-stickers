@@ -1,0 +1,21 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 181090,
+    "frames": 6,
+    "duration_ms": 2700,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-16",
+    "verdict": "pass",
+    "evidence": "animations/boy-kippah-16/contact-sheet.jpg",
+    "caption_complete": true,
+    "character_intact": true,
+    "reason": "Calm eyes and hand-on-chest breathing poses; subtle action, complete caption and figure.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

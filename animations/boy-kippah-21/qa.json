@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 216714,
+    "frames": 6,
+    "duration_ms": 2700,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-21",
+    "verdict": "pass",
+    "reason": "All six frames on light and dark retain intact patience caption, complete seated child and hourglass; soft blink and head tilt communicate waiting with no unrelated fragments.",
+    "evidence": "animations/boy-kippah-21/contact-sheet.jpg; all six frames in both light and dark rows inspected",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

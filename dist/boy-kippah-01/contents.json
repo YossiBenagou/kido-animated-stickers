@@ -1,0 +1,224 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "kido_boy_kippah_01",
+      "name": "Kido boy-kippah 1",
+      "publisher": "Kido",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "01.webp",
+          "emojis": [
+            "👟"
+          ],
+          "accessibility_text": "A character expresses \"אני רוצה לבד!\" in Hebrew."
+        },
+        {
+          "image_file": "02.webp",
+          "emojis": [
+            "🎉"
+          ],
+          "accessibility_text": "A character expresses \"הצלחתי!!!\" in Hebrew."
+        },
+        {
+          "image_file": "03.webp",
+          "emojis": [
+            "🤲"
+          ],
+          "accessibility_text": "A character expresses \"תני לי!!\" in Hebrew."
+        },
+        {
+          "image_file": "04.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "A character expresses \"עוד! עוד!!\" in Hebrew."
+        },
+        {
+          "image_file": "05.webp",
+          "emojis": [
+            "🏆"
+          ],
+          "accessibility_text": "A character expresses \"אני אלוף!\" in Hebrew."
+        },
+        {
+          "image_file": "06.webp",
+          "emojis": [
+            "🤔"
+          ],
+          "accessibility_text": "A character expresses \"רגע, חושב...\" in Hebrew."
+        },
+        {
+          "image_file": "07.webp",
+          "emojis": [
+            "🤷"
+          ],
+          "accessibility_text": "A character expresses \"לא אני!!\" in Hebrew."
+        },
+        {
+          "image_file": "08.webp",
+          "emojis": [
+            "😋"
+          ],
+          "accessibility_text": "A character expresses \"אני מת מרעב!!\" in Hebrew."
+        },
+        {
+          "image_file": "09.webp",
+          "emojis": [
+            "😴"
+          ],
+          "accessibility_text": "A character expresses \"עוד שנייה!!\" in Hebrew."
+        },
+        {
+          "image_file": "10.webp",
+          "emojis": [
+            "🥱"
+          ],
+          "accessibility_text": "A character expresses \"אני לא עייף בכלל!\" in Hebrew."
+        },
+        {
+          "image_file": "11.webp",
+          "emojis": [
+            "😮"
+          ],
+          "accessibility_text": "A character expresses \"למממהה??\" in Hebrew."
+        },
+        {
+          "image_file": "12.webp",
+          "emojis": [
+            "😑"
+          ],
+          "accessibility_text": "A character expresses \"משעמם לי!!\" in Hebrew."
+        },
+        {
+          "image_file": "13.webp",
+          "emojis": [
+            "😠"
+          ],
+          "accessibility_text": "A character expresses \"אני כל כך כועס!!\" in Hebrew."
+        },
+        {
+          "image_file": "14.webp",
+          "emojis": [
+            "😢"
+          ],
+          "accessibility_text": "A character expresses \"בא לי לבכות...\" in Hebrew."
+        },
+        {
+          "image_file": "15.webp",
+          "emojis": [
+            "😄"
+          ],
+          "accessibility_text": "A character expresses \"כייייף!!!\" in Hebrew."
+        },
+        {
+          "image_file": "16.webp",
+          "emojis": [
+            "🧘"
+          ],
+          "accessibility_text": "A character expresses \"בוא ננשום יחד\" in Hebrew."
+        },
+        {
+          "image_file": "17.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "A character expresses \"רגשות זה בסדר\" in Hebrew."
+        },
+        {
+          "image_file": "18.webp",
+          "emojis": [
+            "🤗"
+          ],
+          "accessibility_text": "A character expresses \"חיבוק!!\" in Hebrew."
+        },
+        {
+          "image_file": "19.webp",
+          "emojis": [
+            "👏"
+          ],
+          "accessibility_text": "A character expresses \"כל הכבוד!!!\" in Hebrew."
+        },
+        {
+          "image_file": "20.webp",
+          "emojis": [
+            "🥰"
+          ],
+          "accessibility_text": "A character expresses \"אני גאה בך!\" in Hebrew."
+        },
+        {
+          "image_file": "21.webp",
+          "emojis": [
+            "⏳"
+          ],
+          "accessibility_text": "A character expresses \"סבלנות...\" in Hebrew."
+        },
+        {
+          "image_file": "22.webp",
+          "emojis": [
+            "☕"
+          ],
+          "accessibility_text": "A character expresses \"אמא צריכה קפה\" in Hebrew."
+        },
+        {
+          "image_file": "23.webp",
+          "emojis": [
+            "🧘"
+          ],
+          "accessibility_text": "A character expresses \"נשימה עמוקה\" in Hebrew."
+        },
+        {
+          "image_file": "24.webp",
+          "emojis": [
+            "❤️"
+          ],
+          "accessibility_text": "A character expresses \"המון אהבה!\" in Hebrew."
+        },
+        {
+          "image_file": "25.webp",
+          "emojis": [
+            "🌅"
+          ],
+          "accessibility_text": "A character expresses \"בוקר טוב\" in Hebrew."
+        },
+        {
+          "image_file": "26.webp",
+          "emojis": [
+            "🌙"
+          ],
+          "accessibility_text": "A character expresses \"לילה טוב\" in Hebrew."
+        },
+        {
+          "image_file": "27.webp",
+          "emojis": [
+            "🍽️"
+          ],
+          "accessibility_text": "A character expresses \"אני רוצה אוכל!\" in Hebrew."
+        },
+        {
+          "image_file": "28.webp",
+          "emojis": [
+            "🛁"
+          ],
+          "accessibility_text": "A character expresses \"אמבטיהההה!\" in Hebrew."
+        },
+        {
+          "image_file": "29.webp",
+          "emojis": [
+            "🙏"
+          ],
+          "accessibility_text": "A character expresses \"תודה!\" in Hebrew."
+        },
+        {
+          "image_file": "30.webp",
+          "emojis": [
+            "🧸"
+          ],
+          "accessibility_text": "A character expresses \"לישוןןןן...\" in Hebrew."
+        }
+      ]
+    }
+  ]
+}

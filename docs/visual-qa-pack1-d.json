@@ -1,0 +1,11 @@
+{
+  "stickers": [
+    {
+      "id": "boy-kippah-29",
+      "verdict": "pass",
+      "reason": "All six frames preserve a complete readable caption and intact seated character on both light and dark backgrounds; bow gesture is visible.",
+      "evidence": "The Hebrew caption תודה! remains fully visible inside its white capsule in all six columns. Both feet, arms, joined hands, hair and red kippah are intact with clean visible white outlines on both backgrounds. Frames 1 and 2 progressively lower the head and face toward joined hands, then frames 3 through 5 return upright, supporting a grateful bow.",
+      "required_fix": null
+    }
+  ]
+}

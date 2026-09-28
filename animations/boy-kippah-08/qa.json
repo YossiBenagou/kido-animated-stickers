@@ -1,0 +1,22 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 159712,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-08",
+    "verdict": "pass",
+    "evidence": "animations/boy-kippah-08/contact-sheet.jpg",
+    "caption_complete": true,
+    "character_intact": true,
+    "reason": "Hunger belly gestures and bend; custom caption cutoff removes red fragment; readable complete caption with narrow lower margin.",
+    "required_fix": null,
+    "verified_caption_crop_ratio": 0.18
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

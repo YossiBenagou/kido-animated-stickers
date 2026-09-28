@@ -1,0 +1,48 @@
+{
+  "method": "Independent visual inspection of all six poses in each contact sheet, light and dark backgrounds.",
+  "limitation": "Static sheets only; no realtime playback, timing, loop smoothness or WhatsApp import validation.",
+  "stickers": [
+    {
+      "id": "boy-kippah-20",
+      "verdict": "pass",
+      "reason": "Proud child beside blocks: complete hands, feet and blocks in all six poses, appropriate facial change and hand presentation; caption clean on light/dark. No consistent white outline around figure but dark-background readability remains acceptable.",
+      "evidence": "animations/boy-kippah-20/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-23",
+      "verdict": "pass",
+      "reason": "Deep-breathing mouth/eyelid sequence and hand on chest read clearly. All six complete busts and captions clean on both backgrounds.",
+      "evidence": "animations/boy-kippah-23/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-25",
+      "verdict": "pass",
+      "reason": "Rechecked after caption cutoff .200: yellow sun-ray residue removed, all Hebrew glyphs intact with narrow acceptable lower margin. All six waking/yawning bed poses complete on light and dark backgrounds.",
+      "evidence": "animations/boy-kippah-25/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-27",
+      "verdict": "pass",
+      "reason": "Spoon raise/tap and smiling expressions fit hunger; spoon, hands, plate and full tabletop edges intact in all six. Clean caption on both backgrounds.",
+      "evidence": "animations/boy-kippah-27/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-28",
+      "verdict": "pass",
+      "reason": "Bath play with lifted arms and changing smile clear; complete tub, rim, feet, towel and duck in all six. No neighboring-pose fragments; caption intact.",
+      "evidence": "animations/boy-kippah-28/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-30",
+      "verdict": "pass",
+      "reason": "Six complete sleepy bust poses: eye rub, yawn and head resting against teddy are clear. Teddy ears, arms and feet intact; small blanket corner and child outline complete. Caption legible and clean on both backgrounds.",
+      "evidence": "animations/boy-kippah-30/contact-sheet.jpg",
+      "required_fix": null
+    }
+  ]
+}

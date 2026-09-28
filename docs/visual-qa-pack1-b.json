@@ -1,0 +1,39 @@
+{
+  "stickers": [
+    {
+      "id": "boy-kippah-19",
+      "verdict": "pass",
+      "reason": "All six frames on light and dark retain intact Hebrew praise caption and complete seated character; palms close and open for clear clapping with joyful blink/wink, without stray source fragments.",
+      "evidence": "animations/boy-kippah-19/contact-sheet.jpg; all six frames in both light and dark rows inspected",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-21",
+      "verdict": "pass",
+      "reason": "All six frames on light and dark retain intact patience caption, complete seated child and hourglass; soft blink and head tilt communicate waiting with no unrelated fragments.",
+      "evidence": "animations/boy-kippah-21/contact-sheet.jpg; all six frames in both light and dark rows inspected",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-22",
+      "verdict": "pass",
+      "reason": "All six frames on light and dark retain intact coffee caption and complete seated child holding cup; eyelids and cup position change coherently without unrelated pieces.",
+      "evidence": "animations/boy-kippah-22/contact-sheet.jpg; all six frames in both light and dark rows inspected",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-24",
+      "verdict": "pass",
+      "reason": "All six frames on light and dark retain intact love caption and complete child/heart outline; embrace tightens with eye closure and head lean, without clipping or source fragments.",
+      "evidence": "animations/boy-kippah-24/contact-sheet.jpg; all six frames in both light and dark rows inspected",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-26",
+      "verdict": "pass",
+      "reason": "All six frames on light and dark retain intact good-night caption and complete child, teddy and quilt; subtle head/face changes fit sleeping, without unrelated pieces.",
+      "evidence": "animations/boy-kippah-26/contact-sheet.jpg; all six frames in both light and dark rows inspected",
+      "required_fix": null
+    }
+  ]
+}

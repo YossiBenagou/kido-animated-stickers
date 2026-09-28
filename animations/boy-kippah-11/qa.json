@@ -1,0 +1,21 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 181428,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-11",
+    "verdict": "pass",
+    "evidence": "animations/boy-kippah-11/contact-sheet.jpg",
+    "caption_complete": true,
+    "character_intact": true,
+    "reason": "Questioning expression, head tilt and shrug; intentional bust composition intact.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

@@ -19,7 +19,8 @@ def assemble(identifier):
     scale=min(440/max(x.width for x in sprites),340/max(x.height for x in sprites))
     with Image.open(ROOT/item['reference']) as src:
         src=src.convert('RGBA')
-        caption=src.crop((0,0,src.width,round(src.height*.247)))
+        cutoff={'boy-kippah-05':.210,'boy-kippah-08':.180,'boy-kippah-25':.200}.get(identifier,.225)
+        caption=src.crop((0,0,src.width,round(src.height*cutoff)))
         parts=connected_components(caption)
         if parts:caption=component_group_image(caption,[max(parts,key=lambda p:p['area'])],padding=0)
         box=caption.getbbox()
@@ -44,8 +45,11 @@ def assemble(identifier):
             sheet.paste(tile.convert('RGB'),(i*256,row*276))
         draw.text((i*256+6,260),str(i),fill='black')
     sheet.save(folder/'contact-sheet.jpg')
-    out=ROOT/'dist'/'boy-kippah-01'/f'{item["number"]}.webp'
-    result=encode(frame_dir,out,180)
+    siblings=[s['id'] for s in catalog['stickers'] if s['collection']==item['collection']]
+    pack_index=siblings.index(identifier)//30+1
+    out=ROOT/'dist'/f'{item["collection"]}-{pack_index:02d}'/f'{item["number"]}.webp'
+    duration=450 if item['number'] in {'16','21','23','26'} else 240 if item['number'] in {'09','10','12','14','17','30'} else 180
+    result=encode(frame_dir,out,duration)
     item.update(frames=frame_paths,output=out.relative_to(ROOT).as_posix(),status='awaiting_visual_qa')
     (ROOT/'catalog.json').write_text(json.dumps(catalog,ensure_ascii=False,indent=2),encoding='utf-8')
     (folder/'qa.json').write_text(json.dumps(dict(technical=result,visual='pending',method='hatch-pet connected components; common scale; preserved original caption'),indent=2),encoding='utf-8')

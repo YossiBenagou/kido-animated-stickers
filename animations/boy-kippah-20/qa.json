@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 240546,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-20",
+    "verdict": "pass",
+    "reason": "Proud child beside blocks: complete hands, feet and blocks in all six poses, appropriate facial change and hand presentation; caption clean on light/dark. No consistent white outline around figure but dark-background readability remains acceptable.",
+    "evidence": "animations/boy-kippah-20/contact-sheet.jpg",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 196078,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-28",
+    "verdict": "pass",
+    "reason": "Bath play with lifted arms and changing smile clear; complete tub, rim, feet, towel and duck in all six. No neighboring-pose fragments; caption intact.",
+    "evidence": "animations/boy-kippah-28/contact-sheet.jpg",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

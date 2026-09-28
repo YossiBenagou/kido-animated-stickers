@@ -1,0 +1,21 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 197588,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-13",
+    "verdict": "pass",
+    "evidence": "animations/boy-kippah-13/contact-sheet.jpg",
+    "caption_complete": true,
+    "character_intact": true,
+    "reason": "Angry folded arms, lifted foot and side glance; clean caption and intact figure.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

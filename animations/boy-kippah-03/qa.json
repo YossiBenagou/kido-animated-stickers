@@ -1,0 +1,21 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 202828,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-03",
+    "verdict": "pass",
+    "evidence": "animations/boy-kippah-03/contact-sheet.jpg",
+    "caption_complete": true,
+    "character_intact": true,
+    "reason": "Clear alternating reaching/grasping hands; complete character and caption.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

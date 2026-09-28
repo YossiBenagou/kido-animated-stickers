@@ -1,0 +1,21 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 189164,
+    "frames": 6,
+    "duration_ms": 1440,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-10",
+    "verdict": "pass",
+    "evidence": "animations/boy-kippah-10/contact-sheet.jpg",
+    "caption_complete": true,
+    "character_intact": true,
+    "reason": "Eye rub and yawn; intact caption and character.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

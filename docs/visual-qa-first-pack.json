@@ -1,0 +1,178 @@
+{
+  "schema_version": 1,
+  "reviewer": "qa_first_nine independent visual review",
+  "scope": "boy-kippah-01 through boy-kippah-18",
+  "method": "Viewed every six-frame contact sheet on both light and dark backgrounds. Rechecked corrected caption crops for 02,04,05,06,08 and final sheets for 01,03,07,09.",
+  "limitation": "Static contact-sheet-only visual review. Does not validate real-time playback, encoded WebP frame timing, flicker, smooth loop motion, WhatsApp import, or technical file compliance. Contact sheet tiles display each 512px frame reduced to 256px.",
+  "summary": {
+    "pass": 18,
+    "warning": 0,
+    "fail": 0
+  },
+  "stickers": [
+    {
+      "id": "boy-kippah-01",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-01/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Shoe attempt and expressive hands; intact caption and character.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-02",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-02/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Celebration and jump; previously observed white caption fragments removed.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-03",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-03/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Clear alternating reaching/grasping hands; complete character and caption.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-04",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-04/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Overhead clapping; previously detached red kippah fragment removed.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-05",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-05/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Victory gestures on stool; custom caption cutoff removes red fragment while retaining glyphs. Lower text margin is narrow but acceptable.",
+      "required_fix": null,
+      "verified_caption_crop_ratio": 0.21
+    },
+    {
+      "id": "boy-kippah-06",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-06/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Thinking head tilts and eye direction; caption sliver removed.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-07",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-07/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Shrug and head turns fit denial; intact character and caption.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-08",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-08/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Hunger belly gestures and bend; custom caption cutoff removes red fragment; readable complete caption with narrow lower margin.",
+      "required_fix": null,
+      "verified_caption_crop_ratio": 0.18
+    },
+    {
+      "id": "boy-kippah-09",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-09/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Raised hand then sleep; bedding and caption intact.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-10",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-10/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Eye rub and yawn; intact caption and character.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-11",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-11/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Questioning expression, head tilt and shrug; intentional bust composition intact.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-12",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-12/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Bored lean and hand-to-cheek poses; backing surface consistent and complete.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-13",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-13/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Angry folded arms, lifted foot and side glance; clean caption and intact figure.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-14",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-14/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Sad blinking and tear-wiping hand; clean caption and complete figure.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-15",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-15/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Happy crouch and leap; apex kippah approaches/touches caption lower edge but no visible text or anatomy loss.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-16",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-16/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Calm eyes and hand-on-chest breathing poses; subtle action, complete caption and figure.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-17",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-17/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Self-hug and gentle head tilts convey emotional reassurance; complete caption and figure on both backgrounds.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-18",
+      "verdict": "pass",
+      "evidence": "animations/boy-kippah-18/contact-sheet.jpg",
+      "caption_complete": true,
+      "character_intact": true,
+      "reason": "Open arms and inward hugging gestures clear; all six bust frames retain complete hands, arms, head and torso edge. No visible neighboring-pose fragments or extraction crop loss on either background.",
+      "required_fix": null
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+The first shoe-holding generation was rejected: it preserved the reference prop but failed the coffee situation. Its exact prompt is retained in prompt-discarded-shoe.md. The correction explicitly replaces both shoes with a coffee mug.

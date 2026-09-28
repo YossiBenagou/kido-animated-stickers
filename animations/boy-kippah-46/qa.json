@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 236506,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-46",
+    "verdict": "pass",
+    "reason": "Complete longing caption and intact seated doorway scene across six poses.",
+    "evidence": "Child, backpack, open door, feet and kippah remain complete while eyes, arms and expression vary from worried to eyes-closed longing. Caption capsule is clean on both backgrounds. Real-time timing not reviewed.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

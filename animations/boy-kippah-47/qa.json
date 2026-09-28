@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 204336,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-47",
+    "verdict": "pass",
+    "reason": "Complete chase caption and coherent running-away animation with intact limbs and clothing.",
+    "evidence": "Running strides, swinging arms, backward-looking head and smiling expression vary across six poses; both feet, kippah, silver clip and apron remain complete. No caption or neighboring-pose fragments are visible. Real-time timing not reviewed.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

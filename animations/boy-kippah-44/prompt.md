@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: animation source strip for a WhatsApp sticker
+Primary request: Create one wide horizontal six-pose animation source strip of the SAME toddler boy character from the provided reference image. He has curly dark brown hair, a red knitted kippah secured with a small silver hair clip, rosy cheeks, cream shirt, terracotta Montessori apron/shorts, brown shoes, and the same small picture book with a simple colorful landscape illustration and no writing. The situation is a gentle “please read to me” request: he stands and holds the picture book up toward the viewer with both hands, large hopeful pleading eyes and sweet hopeful eyebrows, tiny half-smile, slight head tilt.
+Animation sequence across exactly six full, complete, separate poses from left to right: 1) neutral hopeful presentation holding book at chest, eyes open; 2) book lifted slightly higher toward viewer, eyebrows raised; 3) gentle head tilt and blink with book extended; 4) book retracts slightly toward chest, eyes open, hopeful smile; 5) book lifts again with a subtle opposite head tilt, eyes open; 6) returns to the original neutral hopeful presentation pose, eyes open. Keep the same character identity, kippah, outfit, book design, proportions, and warm hand-painted children’s illustration style in every pose.
+Input images: Image 1: reference image for exact character identity, outfit, kippah, and book design.
+Scene/backdrop: genuinely transparent background, no ground, no shadows.
+Style/medium: polished hand-painted children’s sticker illustration, clean soft edges, consistent linework and colors.
+Composition/framing: very wide horizontal strip, six evenly spaced full-body poses, each pose fully inside its own area with wide gutters and exterior margins; no overlap between poses; all limbs, shoes, kippah, and book fully visible.
+Lighting/mood: bright gentle studio illustration, tender hopeful warmth.
+Constraints: preserve the exact recognizable boy, kippah with silver clip, outfit, and book across all six poses; six poses only; each pose separate and complete; transparent alpha background.
+Avoid: any text, captions, speech bubbles, logos, watermarks, labels, extra characters, detached effects, sparkles, motion lines, cropped body parts, merged poses, extra objects, background scenery, opaque white background.

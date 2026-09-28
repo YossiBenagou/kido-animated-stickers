@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 281156,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-33",
+    "verdict": "pass",
+    "reason": "Readable complete caption and coherent drawing/showing gesture with intact crayon and hands.",
+    "evidence": "Six columns show frontal, turned drawing, looking-back and celebrating poses. Colorful wall marks remain part of the intended scene; child and crayon are complete on both backgrounds, with no stray caption fragments.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

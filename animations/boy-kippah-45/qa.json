@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 167684,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-45",
+    "verdict": "pass",
+    "reason": "Complete invitation caption and intact toy-holding figure with meaningful play poses.",
+    "evidence": "Both toys and hands remain complete as the child tilts, winks and shifts the invitation gesture across six poses. Outfit, kippah and clip stay consistent; no neighboring pose fragment or caption artifact is visible. Real-time timing not reviewed.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

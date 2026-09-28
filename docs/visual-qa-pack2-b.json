@@ -1,0 +1,60 @@
+{
+  "stickers": [
+    {
+      "id": "boy-kippah-32",
+      "verdict": "pass",
+      "reason": "The boy, kippah, silver clip, overturned milk cup, and spilled puddle remain complete across light and dark frames; the shocked reaction has clear motion and the caption is fully legible.",
+      "evidence": "animations/boy-kippah-32/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-36",
+      "verdict": "pass",
+      "reason": "The boy keeps a consistent identity and visible kippah/clip; scissors, cut hair lock, uneven haircut, and proud expression read clearly with useful hand/pose motion in both themes.",
+      "evidence": "animations/boy-kippah-36/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-37",
+      "verdict": "pass",
+      "reason": "The repaired animation has no halo fragments, and the broken item, innocent pointing/shrugging gestures, kippah/clip, anatomy, and caption remain clear in both themes.",
+      "evidence": "animations/boy-kippah-37/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-38",
+      "verdict": "pass",
+      "reason": "The tantrum scenario reads clearly through kicking, fists, crying face, tears, and seated anatomy; kippah/clip and the full caption remain clean on light and dark backgrounds.",
+      "evidence": "animations/boy-kippah-38/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-39",
+      "verdict": "pass",
+      "reason": "The boy consistently hugs the teddy bear possessively with readable expression and pose changes; anatomy, kippah/clip, prop, caption, and both theme rows are clean.",
+      "evidence": "animations/boy-kippah-39/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-40",
+      "verdict": "pass",
+      "reason": "The seated refusal scenario is complete: table, vegetable plate, crossed arms, disgusted expressions, visible kippah/clip, and readable caption animate coherently in both themes.",
+      "evidence": "animations/boy-kippah-40/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-41",
+      "verdict": "pass",
+      "reason": "The silent-treatment back-view scenario has intact anatomy, consistent boy identity and outfit, visible kippah/clip, clear crossed-arm/body-language changes, and a clean legible caption in both themes; source embroidery is omitted consistently by production design.",
+      "evidence": "animations/boy-kippah-41/contact-sheet.jpg",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-42",
+      "verdict": "pass",
+      "reason": "The boy retains consistent curly-hair identity, kippah/clip, complete anatomy, and a coherent pointing/tattling gesture sequence; the caption is clean and legible on both light and dark rows.",
+      "evidence": "animations/boy-kippah-42/contact-sheet.jpg",
+      "required_fix": null
+    }
+  ]
+}

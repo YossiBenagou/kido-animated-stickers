@@ -1,0 +1,53 @@
+{
+  "stickers": [
+    {
+      "id": "boy-kippah-43",
+      "verdict": "pass",
+      "reason": "Complete readable caption and intact hug scene across six poses on light and dark backgrounds.",
+      "evidence": "Child, kippah, silver clip, arms, bare feet and the mother's pant leg remain complete while gaze, hands and expression vary. Caption capsule is clean with no source-head fragment. Real-time timing not reviewed.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-44",
+      "verdict": "pass",
+      "reason": "Readable complete caption and coherent read-to-me gesture with intact book and hands.",
+      "evidence": "The book stays fully held in both hands while head angle, eyes and expression change across the six poses. Child, outfit and kippah remain consistent on both backgrounds; caption is clean. Real-time timing not reviewed.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-45",
+      "verdict": "pass",
+      "reason": "Complete invitation caption and intact toy-holding figure with meaningful play poses.",
+      "evidence": "Both toys and hands remain complete as the child tilts, winks and shifts the invitation gesture across six poses. Outfit, kippah and clip stay consistent; no neighboring pose fragment or caption artifact is visible. Real-time timing not reviewed.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-46",
+      "verdict": "pass",
+      "reason": "Complete longing caption and intact seated doorway scene across six poses.",
+      "evidence": "Child, backpack, open door, feet and kippah remain complete while eyes, arms and expression vary from worried to eyes-closed longing. Caption capsule is clean on both backgrounds. Real-time timing not reviewed.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-47",
+      "verdict": "pass",
+      "reason": "Complete chase caption and coherent running-away animation with intact limbs and clothing.",
+      "evidence": "Running strides, swinging arms, backward-looking head and smiling expression vary across six poses; both feet, kippah, silver clip and apron remain complete. No caption or neighboring-pose fragments are visible. Real-time timing not reviewed.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-48",
+      "verdict": "pass",
+      "reason": "Complete question caption and intact child-and-dog pondering scene.",
+      "evidence": "Dog, tail, child, hand-to-chin gesture, feet and outfit remain complete while gaze and expression change across six poses. Caption is fully legible and clean on light and dark rows. Real-time timing not reviewed.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-49",
+      "verdict": "pass",
+      "reason": "Complete astronaut caption and intact oversized helmet and suit across six poses.",
+      "evidence": "Helmet, visor, jacket, body and bare feet remain complete while raised arms, hands and facial expression vary. Caption capsule is clean with no source-head artifact on either background. Real-time timing not reviewed.",
+      "required_fix": null
+    }
+  ]
+}

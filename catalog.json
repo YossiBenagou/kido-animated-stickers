@@ -1781,7 +1781,7 @@
       "caption": "אויי... שיט!",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING in a small visible BATHROOM SCENE — a clear toilet/potty in the background behind them, light bathroom tiled floor and walls visible. On the bathroom floor in front of the toddler is a CLEAR CARTOON POOP EMOJI 💩 STYLE pile (the classic brown swirly soft-serve poop emoji shape — universally recognized, cute and stylized, NOT realistic, with little smile if appropriate). The toddler stands beside the cartoon poop pile, looking down at it confused, with brown smears (matching the cartoon-emoji style) on their tiny raised hands which they hold up looking at, mouth in a small surprised 'oh!' expression. Pure innocent toilet-training mishap with both the BATHROOM SETTING (toilet visible) and the cartoon poop CLEARLY VISIBLE on the floor — playful and cartoony, NOT gross or realistic. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background outside the bathroom scene, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/31.png",
-      "status": "awaiting_visual_qa",
+      "status": "complete",
       "frames": [
         "animations/boy-kippah-31/frames/00.png",
         "animations/boy-kippah-31/frames/01.png",
@@ -1799,9 +1799,16 @@
       "caption": "אוי לא...",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING beside an overturned cup of milk that has spilled in a big puddle on the floor, looking down at the disaster with wide shocked eyes and a small open mouth in pure 'oh no!' realization, hands raised slightly. Empty cup tipped on its side beside the puddle. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/32.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-32/frames/00.png",
+        "animations/boy-kippah-32/frames/01.png",
+        "animations/boy-kippah-32/frames/02.png",
+        "animations/boy-kippah-32/frames/03.png",
+        "animations/boy-kippah-32/frames/04.png",
+        "animations/boy-kippah-32/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/32.webp"
     },
     {
       "id": "boy-kippah-33",
@@ -1810,9 +1817,16 @@
       "caption": "ציירתי על הקיר!",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING proudly in front of a white wall covered with colorful crayon scribbles (red, yellow, green, blue lines), holding a big crayon up triumphantly in one hand, beaming proud smile, eyes sparkling with pride at their 'masterpiece'. Pure innocent toddler artistic pride (oblivious to having done something wrong). The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/33.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-33/frames/00.png",
+        "animations/boy-kippah-33/frames/01.png",
+        "animations/boy-kippah-33/frames/02.png",
+        "animations/boy-kippah-33/frames/03.png",
+        "animations/boy-kippah-33/frames/04.png",
+        "animations/boy-kippah-33/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/33.webp"
     },
     {
       "id": "boy-kippah-34",
@@ -1821,9 +1835,16 @@
       "caption": "דחוף!!",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING with legs crossed dramatically in URGENT bathroom emergency pose, both hands clutching/holding the pelvis area, face scrunched in panicked urgency, eyes wide and pleading, mouth in a desperate 'O', slightly hopping on the spot. Pure 'I gotta go RIGHT NOW' panic. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/34.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-34/frames/00.png",
+        "animations/boy-kippah-34/frames/01.png",
+        "animations/boy-kippah-34/frames/02.png",
+        "animations/boy-kippah-34/frames/03.png",
+        "animations/boy-kippah-34/frames/04.png",
+        "animations/boy-kippah-34/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/34.webp"
     },
     {
       "id": "boy-kippah-35",
@@ -1832,9 +1853,16 @@
       "caption": "סיימתי! הכל נקי",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING completely covered in food/sauce/chocolate smears all over the face, hands, and apron, hair messy with bits of food, mouth in a HUGE proud delighted grin, eyes sparkling with joy, arms spread wide showing off the mess. Pure 'look how I ate!' pride. The toddler wears their normal apron with the embroidered Kido logo barely visible through the mess on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/35.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-35/frames/00.png",
+        "animations/boy-kippah-35/frames/01.png",
+        "animations/boy-kippah-35/frames/02.png",
+        "animations/boy-kippah-35/frames/03.png",
+        "animations/boy-kippah-35/frames/04.png",
+        "animations/boy-kippah-35/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/35.webp"
     },
     {
       "id": "boy-kippah-36",
@@ -1843,9 +1871,16 @@
       "caption": "הסתפרתי!",
       "description": "A toddler BOY aged 2-3 with curly dark brown hair wearing a small KIPPAH on his head (clipped with a small visible silver hair clip to a curl), but with a TERRIBLE chunky uneven self-haircut — one side dramatically shorter than the other, missing patches in the curls, holding child-safe scissors in one tiny hand and a small lock of cut hair in the other, beaming a HUGELY proud smile like he just accomplished something amazing, completely oblivious to the disaster. The kippah stays in place thanks to the silver clip even with the messy haircut. He wears his apron with the embroidered קידו. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/36.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-36/frames/00.png",
+        "animations/boy-kippah-36/frames/01.png",
+        "animations/boy-kippah-36/frames/02.png",
+        "animations/boy-kippah-36/frames/03.png",
+        "animations/boy-kippah-36/frames/04.png",
+        "animations/boy-kippah-36/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/36.webp"
     },
     {
       "id": "boy-kippah-37",
@@ -1854,9 +1889,16 @@
       "caption": "זה היה כבר ככה...",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING beside a clearly broken/damaged item (broken vase pieces or scattered toys), pointing innocently at it with one tiny finger, OVERLY innocent wide-eyed expression with raised eyebrows, halo-like glow above the head (visual joke), mouth in a tight little 'wasn't me' smile. Pure deflection energy. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/37.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-37/frames/00.png",
+        "animations/boy-kippah-37/frames/01.png",
+        "animations/boy-kippah-37/frames/02.png",
+        "animations/boy-kippah-37/frames/03.png",
+        "animations/boy-kippah-37/frames/04.png",
+        "animations/boy-kippah-37/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/37.webp"
     },
     {
       "id": "boy-kippah-38",
@@ -1865,9 +1907,16 @@
       "caption": "לאאאאא!!!",
       "description": "A toddler aged 2-3 with curly dark brown hair COMPLETELY MELTED DOWN — lying flat on the floor on their back in full tantrum mode, both fists pounding the floor, legs kicking, mouth WIDE OPEN in a dramatic wailing cry, eyes squeezed shut with two big dramatic tears flying out, face slightly red. Pure dramatic toddler tantrum theater (cute, exaggerated, not scary). The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/38.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-38/frames/00.png",
+        "animations/boy-kippah-38/frames/01.png",
+        "animations/boy-kippah-38/frames/02.png",
+        "animations/boy-kippah-38/frames/03.png",
+        "animations/boy-kippah-38/frames/04.png",
+        "animations/boy-kippah-38/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/38.webp"
     },
     {
       "id": "boy-kippah-39",
@@ -1876,9 +1925,16 @@
       "caption": "זה שלי!!",
       "description": "A toddler aged 2-3 with curly dark brown hair clutching a small toy (teddy bear or favorite item) tightly to their chest with both arms, body slightly turned away protectively, eyebrows scrunched down possessively, mouth in a fierce determined pout, eyes glaring sideways at someone trying to take it. Pure toddler ownership rage. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/39.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-39/frames/00.png",
+        "animations/boy-kippah-39/frames/01.png",
+        "animations/boy-kippah-39/frames/02.png",
+        "animations/boy-kippah-39/frames/03.png",
+        "animations/boy-kippah-39/frames/04.png",
+        "animations/boy-kippah-39/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/39.webp"
     },
     {
       "id": "boy-kippah-40",
@@ -1887,9 +1943,16 @@
       "caption": "אני שונא!",
       "description": "A toddler aged 2-3 with curly dark brown hair sitting at a small table with a plate of food (vegetables) in front of them, arms firmly crossed across chest, looking down at the food with disgusted scrunched-up face, lips pursed sideways in a refusing pout, eyebrows angry. Pure 'I hate this food' refusal energy. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. CRITICAL: The KIPPAH MUST BE VISIBLE on top of his curly head with the small silver hair clip clearly attaching it — do not forget the kippah. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/40.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-40/frames/00.png",
+        "animations/boy-kippah-40/frames/01.png",
+        "animations/boy-kippah-40/frames/02.png",
+        "animations/boy-kippah-40/frames/03.png",
+        "animations/boy-kippah-40/frames/04.png",
+        "animations/boy-kippah-40/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/40.webp"
     },
     {
       "id": "boy-kippah-41",
@@ -1898,9 +1961,16 @@
       "caption": "אני לא מדבר!",
       "description": "A toddler BOY aged 2-3 with curly dark brown hair wearing a kippah with a small silver hair clip clearly visible attaching it to a curl. He is shown FROM BEHIND/BACK VIEW — head turned dramatically all the way away from the viewer (back of his head, kippah, and back of body visible), arms crossed firmly, body language saying 'I'm giving you the silent treatment'. Maybe one eye peeking back to check. Pure dramatic toddler silent treatment. CRITICAL BRANDING OVERRIDE: Since the toddler's BACK is facing the viewer (not his front), the embroidered 'קידו' must be embroidered on the UPPER BACK area of the apron (between the shoulder blades) — NOT on the front. The apron back is what's visible to the viewer. Embroidery details same as standard (thick chunky thread, raised relief, fabric integration). Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/41.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-41/frames/00.png",
+        "animations/boy-kippah-41/frames/01.png",
+        "animations/boy-kippah-41/frames/02.png",
+        "animations/boy-kippah-41/frames/03.png",
+        "animations/boy-kippah-41/frames/04.png",
+        "animations/boy-kippah-41/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/41.webp"
     },
     {
       "id": "boy-kippah-42",
@@ -1909,9 +1979,16 @@
       "caption": "אני אגיד לאמא!!",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING with one tiny accusing finger dramatically pointed forward, mouth open in mid-shout, eyebrows up in self-righteous fury, the OTHER hand holding an imaginary phone to ear or pointing to themselves, body angled like they're about to run away to tattle. Pure 'I'm telling mom!' threat energy. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/42.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-42/frames/00.png",
+        "animations/boy-kippah-42/frames/01.png",
+        "animations/boy-kippah-42/frames/02.png",
+        "animations/boy-kippah-42/frames/03.png",
+        "animations/boy-kippah-42/frames/04.png",
+        "animations/boy-kippah-42/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/42.webp"
     },
     {
       "id": "boy-kippah-43",
@@ -1920,9 +1997,16 @@
       "caption": "אני אוהב אותך",
       "description": "A toddler aged 2-3 with curly dark brown hair giving a BIG warm hug to a MOTHER'S LEG — only the mom's leg is visible from mid-thigh down. The mom is wearing comfortable PANTS (soft cotton lounge pants or jeans) that come down to the ankle area, and her FOOT IS BARE (NO SOCKS, NO SHOES — just bare skin foot with cute pedicured toes peeking out from below the pant cuff). The child wraps their tiny arms tenderly around the mom's pants-covered calf, eyes peacefully closed, soft tender smile, cheeks pressed against the leg lovingly. Small floating hearts around them. Pure unconditional toddler love. The toddler wears a LIGHT-COLORED apron (cream, soft beige, or pale sage) so the embroidered Kido logo on the apron pocket appears in DARK CHARCOAL THREAD for strong contrast. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/43.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-43/frames/00.png",
+        "animations/boy-kippah-43/frames/01.png",
+        "animations/boy-kippah-43/frames/02.png",
+        "animations/boy-kippah-43/frames/03.png",
+        "animations/boy-kippah-43/frames/04.png",
+        "animations/boy-kippah-43/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/43.webp"
     },
     {
       "id": "boy-kippah-44",
@@ -1931,9 +2015,16 @@
       "caption": "תקראי לי..?",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING holding a small picture book up toward the viewer with both small hands, eyes large and pleading sweetly, mouth in an irresistible little half-smile, head tilted slightly. Pure 'please read to me' hopeful charm. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/44.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-44/frames/00.png",
+        "animations/boy-kippah-44/frames/01.png",
+        "animations/boy-kippah-44/frames/02.png",
+        "animations/boy-kippah-44/frames/03.png",
+        "animations/boy-kippah-44/frames/04.png",
+        "animations/boy-kippah-44/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/44.webp"
     },
     {
       "id": "boy-kippah-45",
@@ -1942,9 +2033,16 @@
       "caption": "בוא נשחק!",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING enthusiastically holding out a small wooden Montessori toy with both hands toward the viewer in invitation, beaming bright welcoming smile, eyes sparkling with hope and excitement, body language of 'come play with me!'. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/45.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-45/frames/00.png",
+        "animations/boy-kippah-45/frames/01.png",
+        "animations/boy-kippah-45/frames/02.png",
+        "animations/boy-kippah-45/frames/03.png",
+        "animations/boy-kippah-45/frames/04.png",
+        "animations/boy-kippah-45/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/45.webp"
     },
     {
       "id": "boy-kippah-46",
@@ -1953,9 +2051,16 @@
       "caption": "אני מתגעגע",
       "description": "A toddler aged 2-3 with curly dark brown hair sitting on the floor beside the front door, small backpack beside them, looking up at the door with big sad longing eyes, one small tear, soft yearning expression of pure missing someone. Pure tender separation longing. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. CRITICAL: The KIPPAH MUST BE VISIBLE on top of his curly head with the small silver hair clip clearly attaching it. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/46.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-46/frames/00.png",
+        "animations/boy-kippah-46/frames/01.png",
+        "animations/boy-kippah-46/frames/02.png",
+        "animations/boy-kippah-46/frames/03.png",
+        "animations/boy-kippah-46/frames/04.png",
+        "animations/boy-kippah-46/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/46.webp"
     },
     {
       "id": "boy-kippah-47",
@@ -1964,9 +2069,16 @@
       "caption": "תפוס אותי!",
       "description": "A toddler BOY aged 2-3 with curly dark brown hair wearing a kippah with a small silver hair clip clearly visible attaching it to a curl. He is caught mid-running away with an enormous laughing open-mouthed grin, looking back over the shoulder with playful eyes, hair (and kippah staying in place thanks to the clip) flying in the motion, arms swinging in playful escape, slight motion lines showing speed. Pure playful chase energy — calling to dad/parent to catch him. CRITICAL: The KIPPAH MUST BE VISIBLE on top of his head with the silver hair clip clearly visible. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/47.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-47/frames/00.png",
+        "animations/boy-kippah-47/frames/01.png",
+        "animations/boy-kippah-47/frames/02.png",
+        "animations/boy-kippah-47/frames/03.png",
+        "animations/boy-kippah-47/frames/04.png",
+        "animations/boy-kippah-47/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/47.webp"
     },
     {
       "id": "boy-kippah-48",
@@ -1975,9 +2087,16 @@
       "caption": "למה לכלב יש זנב?",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING with one tiny finger thoughtfully on the chin in a deep philosophical pondering pose, head tilted dramatically, eyes large and contemplative looking up at the sky, mouth slightly open in deep thought. A small cute illustrated dog with a wagging tail beside them being studied. Pure profound toddler philosophy. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/48.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-48/frames/00.png",
+        "animations/boy-kippah-48/frames/01.png",
+        "animations/boy-kippah-48/frames/02.png",
+        "animations/boy-kippah-48/frames/03.png",
+        "animations/boy-kippah-48/frames/04.png",
+        "animations/boy-kippah-48/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/48.webp"
     },
     {
       "id": "boy-kippah-49",
@@ -1986,9 +2105,16 @@
       "caption": "אני אהיה אסטרונאוט!",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING wearing an oversized adult astronaut helmet (way too big, falling over the eyes) and a too-large NASA jacket draped on shoulders, beaming a huge dreamy proud smile, both arms triumphantly raised. Pure aspirational toddler dream-up. The toddler wears their normal apron under the oversized jacket with the embroidered Kido logo barely peeking out. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/49.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-49/frames/00.png",
+        "animations/boy-kippah-49/frames/01.png",
+        "animations/boy-kippah-49/frames/02.png",
+        "animations/boy-kippah-49/frames/03.png",
+        "animations/boy-kippah-49/frames/04.png",
+        "animations/boy-kippah-49/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/49.webp"
     },
     {
       "id": "boy-kippah-50",
@@ -1997,9 +2123,16 @@
       "caption": "אני יכול לעוף!",
       "description": "A toddler aged 2-3 with curly dark brown hair caught mid-jump from a low ottoman/cushion with both arms spread wide like wings, hair flying up, mouth wide open in a daring shouting laugh, eyes squeezed in pure joy, totally convinced they can fly. Pure toddler invincibility. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/50.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-50/frames/00.png",
+        "animations/boy-kippah-50/frames/01.png",
+        "animations/boy-kippah-50/frames/02.png",
+        "animations/boy-kippah-50/frames/03.png",
+        "animations/boy-kippah-50/frames/04.png",
+        "animations/boy-kippah-50/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/50.webp"
     },
     {
       "id": "boy-kippah-51",
@@ -2008,9 +2141,16 @@
       "caption": "השמש הולכת לישון",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING by a window pointing one tiny finger up toward a setting sun (warm orange/pink glow visible through the window), looking up with wonder, mouth in a soft 'oh!' of discovery, eyes wide and curious. Pure innocent toddler observation of nature. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/51.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-51/frames/00.png",
+        "animations/boy-kippah-51/frames/01.png",
+        "animations/boy-kippah-51/frames/02.png",
+        "animations/boy-kippah-51/frames/03.png",
+        "animations/boy-kippah-51/frames/04.png",
+        "animations/boy-kippah-51/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/51.webp"
     },
     {
       "id": "boy-kippah-52",
@@ -2019,9 +2159,16 @@
       "caption": "אמא צריכה רגע...",
       "description": "An adult mother (only the upper body visible from chest up, soft warm features, hair tied back, no specific identifying features) sitting on the bathroom floor with back against the wall, both hands covering the face in exhaustion, slightly disheveled, a small floating thought-bubble showing a coffee cup. Pure mom-needs-a-break exhaustion (cute, relatable, not sad). NO TODDLER in this sticker — just the mom alone needing a moment. The mom wears a small Montessori-style apron (the same kind the toddler wears in other stickers, but adult-sized) with the embroidered Kido logo CLEARLY VISIBLE on the apron chest area — positioned BELOW her hands so it stays in view (her hands cover her face, leaving the chest/apron area unobstructed). Square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/52.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-52/frames/00.png",
+        "animations/boy-kippah-52/frames/01.png",
+        "animations/boy-kippah-52/frames/02.png",
+        "animations/boy-kippah-52/frames/03.png",
+        "animations/boy-kippah-52/frames/04.png",
+        "animations/boy-kippah-52/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/52.webp"
     },
     {
       "id": "boy-kippah-53",
@@ -2030,9 +2177,16 @@
       "caption": "מתי הם יישנו?",
       "description": "An adult parent figure (warm features, only upper body) sitting on a couch with one hand on the forehead in tired exasperation, the other hand pointing toward a wall clock that shows it's late at night, eyes droopy with exhaustion, soft tired smile. NO TODDLER in this sticker. A small zZz cloud above the parent. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/53.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-53/frames/00.png",
+        "animations/boy-kippah-53/frames/01.png",
+        "animations/boy-kippah-53/frames/02.png",
+        "animations/boy-kippah-53/frames/03.png",
+        "animations/boy-kippah-53/frames/04.png",
+        "animations/boy-kippah-53/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/53.webp"
     },
     {
       "id": "boy-kippah-54",
@@ -2041,9 +2195,16 @@
       "caption": "5,4,3...",
       "description": "An adult parent's hand visible from the elbow down, fingers raised counting down (showing 5 fingers, with one in the process of curling down), the parent's stern but warm pointing posture, with a small toddler (2-3 with curly dark brown hair) in the foreground/corner of the frame looking up nervously realizing they need to comply NOW. Pure parent count-down warning. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/54.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-54/frames/00.png",
+        "animations/boy-kippah-54/frames/01.png",
+        "animations/boy-kippah-54/frames/02.png",
+        "animations/boy-kippah-54/frames/03.png",
+        "animations/boy-kippah-54/frames/04.png",
+        "animations/boy-kippah-54/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/54.webp"
     },
     {
       "id": "boy-kippah-55",
@@ -2052,9 +2213,16 @@
       "caption": "לקחת את החטיף?",
       "description": "A peace-offering scene: an adult parent's hand visible from the side holding out a small cute-looking snack/cookie toward the viewer in a making-up gesture, with a small toddler (2-3 with curly dark brown hair) tentatively reaching for it with one small hand, expression softening from upset to being won over. Pure parent peace-offering charm. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/55.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-55/frames/00.png",
+        "animations/boy-kippah-55/frames/01.png",
+        "animations/boy-kippah-55/frames/02.png",
+        "animations/boy-kippah-55/frames/03.png",
+        "animations/boy-kippah-55/frames/04.png",
+        "animations/boy-kippah-55/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/55.webp"
     },
     {
       "id": "boy-kippah-56",
@@ -2063,9 +2231,16 @@
       "caption": "אמא תמיד צודקת",
       "description": "A toddler aged 2-3 with curly dark brown hair standing with one tiny finger raised UPWARDS WISELY (like delivering profound life wisdom), looking sideways/up at a DAD figure beside them (only the dad's lower face, shoulder, and upper torso visible from the side — dad is kneeling down to the toddler's level to hear). The toddler has a SERIOUS WISE SAGE-LIKE expression with a tiny knowing smile, mouth slightly open mid-sentence as if delivering IMPORTANT TRUTH, eyes confident and matter-of-fact. The dad listens attentively with a soft amused smile, slightly leaning in. A tiny floating wisdom sparkle (NOT a lightbulb) above the toddler's head emphasizes the wise pronouncement. Pure cheeky toddler stating an obvious fact. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. CRITICAL: NO LIGHTBULB anywhere in this sticker. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/56.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/boy-kippah-56/frames/00.png",
+        "animations/boy-kippah-56/frames/01.png",
+        "animations/boy-kippah-56/frames/02.png",
+        "animations/boy-kippah-56/frames/03.png",
+        "animations/boy-kippah-56/frames/04.png",
+        "animations/boy-kippah-56/frames/05.png"
+      ],
+      "output": "dist/boy-kippah-02/56.webp"
     },
     {
       "id": "products-he-60",

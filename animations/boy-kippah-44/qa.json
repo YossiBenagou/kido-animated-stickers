@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 177424,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-44",
+    "verdict": "pass",
+    "reason": "Readable complete caption and coherent read-to-me gesture with intact book and hands.",
+    "evidence": "The book stays fully held in both hands while head angle, eyes and expression change across the six poses. Child, outfit and kippah remain consistent on both backgrounds; caption is clean. Real-time timing not reviewed.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

@@ -1,0 +1,39 @@
+{
+  "stickers": [
+    {
+      "id": "boy-kippah-31",
+      "verdict": "pass",
+      "reason": "Complete caption and intact child/toilet props across six poses on light and dark backgrounds.",
+      "evidence": "Hands rise, gaze lowers and shoulders shrug across the sequence; feet, red kippah, toilet and brown floor prop stay visible. Caption capsule contains no visible artwork fragments.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-33",
+      "verdict": "pass",
+      "reason": "Readable complete caption and coherent drawing/showing gesture with intact crayon and hands.",
+      "evidence": "Six columns show frontal, turned drawing, looking-back and celebrating poses. Colorful wall marks remain part of the intended scene; child and crayon are complete on both backgrounds, with no stray caption fragments.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-34",
+      "verdict": "pass",
+      "reason": "Complete urgent caption, intact standing figure and readable restless knee/foot movement.",
+      "evidence": "Both shoes, crossed legs, clasped hands, head and kippah are fully inside all six frames. Worry expression and lifted feet vary; no source art is embedded in the caption.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-35",
+      "verdict": "pass",
+      "reason": "Full caption and complete waist-up messy-child poses with clear arm gestures on both backgrounds.",
+      "evidence": "Arms spread, hands curl inward and a hand moves to the dirty apron; fingers and lower apron edge remain intact. Food stains are intentional and caption capsule is clean.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-37",
+      "verdict": "fail",
+      "reason": "A yellow fragment of the source halo is embedded along the bottom center of every caption capsule.",
+      "evidence": "The yellow arc is clearly visible below the Hebrew text in both light and dark rows. Source 37.png confirms the halo overlaps the lower caption area. Character hands, feet and broken vase props otherwise remain intact across pointing/shrug poses.",
+      "required_fix": "Set the source caption cutoff for boy-kippah-37 to 0.175 of source height (179 pixels for the 1024-pixel source), before the halo begins and after all text ends, then rebuild and recheck the caption. No image regeneration is required."
+    }
+  ]
+}

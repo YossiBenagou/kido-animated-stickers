@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 275650,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-53",
+    "verdict": "pass",
+    "reason": "Complete adult-on-couch scene with stable props and meaningful tired gestures.",
+    "evidence": "The Hebrew caption מתי הם יישנו? is complete and clean. Adult parent, couch, clock and lamp stay fully visible across all six frames; pointing, forehead touch, yawn, clock glance and tired smile vary without merged poses or clipped objects. Static contact-sheet review confirms pose variation; realtime timing is unverified.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

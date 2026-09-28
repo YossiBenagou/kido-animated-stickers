@@ -1,0 +1,39 @@
+{
+  "stickers": [
+    {
+      "id": "boy-kippah-50",
+      "verdict": "pass",
+      "reason": "Complete caption and intact child, kippah, feet and flying-board prop across six poses.",
+      "evidence": "The Hebrew caption אני יכול לעוף! is fully readable and its capsule is clean. Crouching, standing and airborne poses are clearly separated with no neighboring merges or clipped limbs; hands and board remain intact on light and dark rows. Static contact-sheet review confirms pose variation; realtime timing is unverified.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-51",
+      "verdict": "pass",
+      "reason": "Readable complete caption with coherent child gestures and intact window prop.",
+      "evidence": "The Hebrew caption השמש הולכת לישון is complete and clean. The child, red kippah, pointing hand, shoes and arched sunset window remain intact in every frame; gaze, blink and pointing vary without overlap or cut limbs. Static contact-sheet review confirms pose variation; realtime timing is unverified.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-52",
+      "verdict": "pass",
+      "reason": "Adult mother identity and exhaustion gestures are consistent, with a complete readable caption.",
+      "evidence": "The Hebrew caption אמא צריכה רגע... is fully readable with no hair or source fragments in the capsule. The adult mother, hair, hands, apron and seated lower-body shapes are intact; face-covering, peeking, lowered-hands and temple-rubbing poses are distinct and separated on both backgrounds. Static contact-sheet review confirms pose variation; realtime timing is unverified.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-53",
+      "verdict": "pass",
+      "reason": "Complete adult-on-couch scene with stable props and meaningful tired gestures.",
+      "evidence": "The Hebrew caption מתי הם יישנו? is complete and clean. Adult parent, couch, clock and lamp stay fully visible across all six frames; pointing, forehead touch, yawn, clock glance and tired smile vary without merged poses or clipped objects. Static contact-sheet review confirms pose variation; realtime timing is unverified.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-54",
+      "verdict": "pass",
+      "reason": "Complete countdown caption and intact child plus intentional adult counting hand.",
+      "evidence": "The 5,4,3... caption is fully readable and its capsule is free of source fragments. The child, kippah, clothing, shoes and the separate parent hand are fully visible in all six frames; finger-count changes provide distinct meaningful poses with no neighboring merges or clipping. Static contact-sheet review confirms pose variation; realtime timing is unverified.",
+      "required_fix": null
+    }
+  ]
+}

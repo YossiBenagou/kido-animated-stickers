@@ -8,4 +8,4 @@ Generation uses the built-in imagegen tool only. No external API billing, prepai
 
 Checks per sticker: six distinct generated poses; matching character and props; visual action appropriate to caption; no visible clipping; caption legible; transparent 512px canvas; actual animation; <=500,000 bytes; each frame >=8ms; total <=10s; loop=0. Technical validation does not replace visual QA. `awaiting_visual_qa` is not `complete`.
 
-The initial production queue is `boy-kippah-01` through `boy-kippah-30`. Remaining catalog entries are pending. Alternate older art and curated final choices remain available for later edits rather than being discarded as duplicates.
+Production proceeds by collection in packs of up to 30; `catalog.json` and `progress.md` record the current queue and approved outputs. Alternate older art and curated final choices remain available for later edits rather than being discarded as duplicates.

@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 172688,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-41",
+    "verdict": "pass",
+    "reason": "The silent-treatment back-view scenario has intact anatomy, consistent boy identity and outfit, visible kippah/clip, clear crossed-arm/body-language changes, and a clean legible caption in both themes; source embroidery is omitted consistently by production design.",
+    "evidence": "animations/boy-kippah-41/contact-sheet.jpg",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

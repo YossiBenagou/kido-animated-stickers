@@ -1,0 +1,18 @@
+{
+  "stickers": [
+    {
+      "id": "boy-kippah-55",
+      "verdict": "pass",
+      "reason": "Complete custom-cropped caption and coherent snack-offer interaction with intact child, hand and cookie.",
+      "evidence": "The Hebrew caption לקחת את החטיף? is fully readable and clean in both light and dark rows. Child, parent hand and snack remain separated and fully visible; skeptical glance, reach, near-touch, acceptance and blink provide distinct poses without merged neighbors or clipped limbs. Static contact-sheet review confirms pose variation; realtime timing is unverified.",
+      "required_fix": null
+    },
+    {
+      "id": "boy-kippah-56",
+      "verdict": "pass",
+      "reason": "Complete caption and consistent child-plus-parent partial-profile scene with meaningful conversational gestures.",
+      "evidence": "The Hebrew caption אמא תמיד צודקת is fully readable with no source fragments. The child, raised index finger, clothing and shoes remain intact across all frames; the intentionally partial adult side profile stays consistent at the right, while blinking, gaze, smile and finger emphasis vary without pose merges. Static contact-sheet review confirms pose variation; realtime timing is unverified.",
+      "required_fix": null
+    }
+  ]
+}

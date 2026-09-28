@@ -9,6 +9,8 @@
 תיקיית `assets/source/curated` שומרת גם את הבחירות הסופיות הקודמות.
 אין לראות תמונת מקור או סטיקר במצב `pending` כאנימציה מוכנה.
 
+[מצב התקדמות וחבילות להורדה](docs/progress.md) · [גלריה מקומית](preview.html)
+
 ## מבנה
 
 - `assets/source/` — איורי מקור וגרסאות קודמות, נשמרו להמשך עריכה.
@@ -33,9 +35,11 @@
 
 ```sh
 pip install -r requirements.txt
-python scripts/export_animation.py animations/boy-kippah-01/frames dist/boy-kippah-01.webp
-python scripts/export_animation.py --validate dist/boy-kippah-01.webp
+python scripts/export_animation.py animations/boy-kippah-01/frames dist/boy-kippah-01/01.webp
+python scripts/export_animation.py --validate dist/boy-kippah-01/01.webp
 ```
+
+להפקה חוזרת מרצועת תנוחות קיימת, שמרו אותה ב־`animations/<id>/source-strip.png`, הריצו `python scripts/assemble_sticker.py <id>` ובדקו את `contact-sheet.jpg`. לאחר תיעוד QA, הריצו `python scripts/accept_qa.py`. אריזת חבילה מלאה: `python scripts/package_pack.py --collection boy-kippah --pack 1`. עדכון הגלריה: `python scripts/build_gallery.py`.
 
 הקלט לייצוא הוא תיקייה עם פריימים שקופים בגודל 512×512 ושמות עוקבים.
 

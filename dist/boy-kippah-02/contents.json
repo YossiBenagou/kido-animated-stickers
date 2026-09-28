@@ -1,0 +1,196 @@
+{
+  "sticker_packs": [
+    {
+      "identifier": "kido_boy_kippah_02",
+      "name": "Kido boy-kippah 2",
+      "publisher": "Kido",
+      "tray_image_file": "tray.png",
+      "image_data_version": "1",
+      "animated_sticker_pack": true,
+      "stickers": [
+        {
+          "image_file": "31.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"אויי... שיט!\" in Hebrew."
+        },
+        {
+          "image_file": "32.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"אוי לא...\" in Hebrew."
+        },
+        {
+          "image_file": "33.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"ציירתי על הקיר!\" in Hebrew."
+        },
+        {
+          "image_file": "34.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"דחוף!!\" in Hebrew."
+        },
+        {
+          "image_file": "35.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"סיימתי! הכל נקי\" in Hebrew."
+        },
+        {
+          "image_file": "36.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"הסתפרתי!\" in Hebrew."
+        },
+        {
+          "image_file": "37.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"זה היה כבר ככה...\" in Hebrew."
+        },
+        {
+          "image_file": "38.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"לאאאאא!!!\" in Hebrew."
+        },
+        {
+          "image_file": "39.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"זה שלי!!\" in Hebrew."
+        },
+        {
+          "image_file": "40.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"אני שונא!\" in Hebrew."
+        },
+        {
+          "image_file": "41.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"אני לא מדבר!\" in Hebrew."
+        },
+        {
+          "image_file": "42.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"אני אגיד לאמא!!\" in Hebrew."
+        },
+        {
+          "image_file": "43.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"אני אוהב אותך\" in Hebrew."
+        },
+        {
+          "image_file": "44.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"תקראי לי..?\" in Hebrew."
+        },
+        {
+          "image_file": "45.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"בוא נשחק!\" in Hebrew."
+        },
+        {
+          "image_file": "46.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"אני מתגעגע\" in Hebrew."
+        },
+        {
+          "image_file": "47.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"תפוס אותי!\" in Hebrew."
+        },
+        {
+          "image_file": "48.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"למה לכלב יש זנב?\" in Hebrew."
+        },
+        {
+          "image_file": "49.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"אני אהיה אסטרונאוט!\" in Hebrew."
+        },
+        {
+          "image_file": "50.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"אני יכול לעוף!\" in Hebrew."
+        },
+        {
+          "image_file": "51.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"השמש הולכת לישון\" in Hebrew."
+        },
+        {
+          "image_file": "52.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"אמא צריכה רגע...\" in Hebrew."
+        },
+        {
+          "image_file": "53.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"מתי הם יישנו?\" in Hebrew."
+        },
+        {
+          "image_file": "54.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"5,4,3...\" in Hebrew."
+        },
+        {
+          "image_file": "55.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"לקחת את החטיף?\" in Hebrew."
+        },
+        {
+          "image_file": "56.webp",
+          "emojis": [
+            "😊"
+          ],
+          "accessibility_text": "A character expresses \"אמא תמיד צודקת\" in Hebrew."
+        }
+      ]
+    }
+  ]
+}

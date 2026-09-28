@@ -1,0 +1,9 @@
+Use case: illustration-story
+Asset type: WhatsApp animated sticker source strip
+Input image: exact reference `assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/56.png`; preserve the toddler boy identity, curly dark brown hair, blue kippah with silver hair clip, cream shirt, rust-orange Kido apron, and the dad partial side-profile style.
+
+Create one horizontal sprite strip containing exactly six distinct, well-separated, complete poses of the same scene and characters for a looping animated WhatsApp sticker. Situation: אמא תמיד צודקת. The toddler stands and delivers wise obvious truth with one tiny index finger raised upward, addressing the dad beside him. The dad kneels at toddler level; only his lower face, shoulder, and upper torso are visible from the side, leaning in attentively with a soft amused smile.
+
+Six poses: (1) child turns toward dad with finger raised and mouth beginning to speak, dad leans in; (2) child blinks and talks with finger held higher, dad attentive; (3) child makes a confident knowing smile while gesturing, dad nods; (4) child briefly closes eyes in sage-like emphasis, finger still raised, dad smiles; (5) child looks sideways matter-of-factly mid-sentence, dad gives a small agreeing nod; (6) child returns to initial raised-finger pose with tiny knowing smile, dad returns to listening pose. Keep both characters consistent and grounded.
+
+Wide horizontal strip, six equal panels in one row, generous gutters, no overlap, all intended visible body parts inside each panel with generous edge margins. True transparent alpha throughout; no white sticker border, shadow, background, or cropping. Clean soft hand-drawn children's book illustration matching the reference. No text, caption, speech bubble, logo, watermark, symbol, sparkle, lightbulb, glow, motion line, decorative effect, extra character/object, extra fingers, or extra limbs.

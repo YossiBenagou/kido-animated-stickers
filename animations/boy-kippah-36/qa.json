@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 228244,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-36",
+    "verdict": "pass",
+    "reason": "The boy keeps a consistent identity and visible kippah/clip; scissors, cut hair lock, uneven haircut, and proud expression read clearly with useful hand/pose motion in both themes.",
+    "evidence": "animations/boy-kippah-36/contact-sheet.jpg",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 197224,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-39",
+    "verdict": "pass",
+    "reason": "The boy consistently hugs the teddy bear possessively with readable expression and pose changes; anatomy, kippah/clip, prop, caption, and both theme rows are clean.",
+    "evidence": "animations/boy-kippah-39/contact-sheet.jpg",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

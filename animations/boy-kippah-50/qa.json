@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 156180,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-50",
+    "verdict": "pass",
+    "reason": "Complete caption and intact child, kippah, feet and flying-board prop across six poses.",
+    "evidence": "The Hebrew caption אני יכול לעוף! is fully readable and its capsule is clean. Crouching, standing and airborne poses are clearly separated with no neighboring merges or clipped limbs; hands and board remain intact on light and dark rows. Static contact-sheet review confirms pose variation; realtime timing is unverified.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

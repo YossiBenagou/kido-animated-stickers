@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 227904,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-35",
+    "verdict": "pass",
+    "reason": "Full caption and complete waist-up messy-child poses with clear arm gestures on both backgrounds.",
+    "evidence": "Arms spread, hands curl inward and a hand moves to the dirty apron; fingers and lower apron edge remain intact. Food stains are intentional and caption capsule is clean.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: source animation strip for a WhatsApp sticker
+Input image: exact reference/edit target: assets/source/collections/גלם_מאוחד/A_כיפה/סטיקר בנים ללא רקע/46.png. Preserve the child's identity, curly dark brown hair, burgundy red kippah, visible small silver hair clip, cream shirt, rust-red Kido apron, seated proportions, front door, wood floor, and green backpack. The Hebrew caption from the source is excluded.
+Primary request: Create one wide horizontal six-panel animation strip on a genuinely transparent background. Six complete, separate, evenly spaced poses of the same toddler beside the same front door and backpack, with wide gaps and generous margins. Panel 1 looks up toward the closed door with wistful longing; panel 2 gives a slow wistful blink while looking toward the door; panel 3 hugs his knees, curling inward; panel 4 tilts his head gently toward the door; panel 5 relaxes and looks up expectantly; panel 6 returns to the opening longing pose. Meaningful pose/expression changes suitable for a loop. Keep door and backpack fixed in placement and design.
+Scene/backdrop: transparent outside the fixed door, floor, backpack, and child cutouts; no invented scenery.
+Subject: same toddler boy from the reference, seated on floor beside door, kippah and silver clip visible in every panel.
+Style/medium: match the original soft hand-painted children's sticker illustration, clean dark linework, warm gentle colors, consistent proportions.
+Composition/framing: wide horizontal six-panel strip, left-to-right order 1 through 6, each panel isolated with wide transparent gaps; all limbs, feet, kippah, backpack, and door edges complete and inside frame.
+Lighting/mood: soft warm indoor light, tender wistful mood.
+Text (verbatim): none. Remove the Hebrew caption entirely from every panel.
+Constraints: preserve identity and outfit, kippah and silver hair clip, fixed door/backpack; no detached tears, text, logos, watermark, decorative effects, extra characters, cropped limbs, panel borders. Do not fake motion by only rotating the whole static sticker; each panel has a real change in gaze, blink, head angle, arms, or knees. Keep background transparent.

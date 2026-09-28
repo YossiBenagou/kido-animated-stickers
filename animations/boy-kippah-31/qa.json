@@ -8,6 +8,12 @@
     "distinct_frames": 6,
     "transparent": true
   },
-  "visual": "pending",
+  "visual": {
+    "id": "boy-kippah-31",
+    "verdict": "pass",
+    "reason": "Complete caption and intact child/toilet props across six poses on light and dark backgrounds.",
+    "evidence": "Hands rise, gaze lowers and shoulders shrug across the sequence; feet, red kippah, toilet and brown floor prop stay visible. Caption capsule contains no visible artwork fragments.",
+    "required_fix": null
+  },
   "method": "hatch-pet connected components; common scale; preserved original caption"
 }

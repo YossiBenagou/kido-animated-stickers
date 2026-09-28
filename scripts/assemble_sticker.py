@@ -19,8 +19,13 @@ def assemble(identifier):
     scale=min(440/max(x.width for x in sprites),340/max(x.height for x in sprites))
     with Image.open(ROOT/item['reference']) as src:
         src=src.convert('RGBA')
-        cutoff={'boy-kippah-05':.210,'boy-kippah-08':.180,'boy-kippah-25':.200}.get(identifier,.225)
-        caption=src.crop((0,0,src.width,round(src.height*cutoff)))
+        cutoff={'boy-kippah-05':.210,'boy-kippah-08':.180,'boy-kippah-25':.200,'boy-kippah-37':.175}.get(identifier,.225)
+        raw_crops={'boy-kippah-55':(115,114,909,306),'girl-07':(164,119,868,255)}
+        if identifier in raw_crops:
+            left,top,right,bottom=raw_crops[identifier]
+            caption=src.crop((round(src.width*left/1024),round(src.height*top/1024),round(src.width*right/1024),round(src.height*bottom/1024)))
+        else:
+            caption=src.crop((0,0,src.width,round(src.height*cutoff)))
         parts=connected_components(caption)
         if parts:caption=component_group_image(caption,[max(parts,key=lambda p:p['area'])],padding=0)
         box=caption.getbbox()

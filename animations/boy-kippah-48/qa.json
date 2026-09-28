@@ -1,0 +1,19 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 243536,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "boy-kippah-48",
+    "verdict": "pass",
+    "reason": "Complete question caption and intact child-and-dog pondering scene.",
+    "evidence": "Dog, tail, child, hand-to-chin gesture, feet and outfit remain complete while gaze and expression change across six poses. Caption is fully legible and clean on light and dark rows. Real-time timing not reviewed.",
+    "required_fix": null
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

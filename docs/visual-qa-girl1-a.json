@@ -1,0 +1,40 @@
+{
+  "stickers": [
+    {
+      "id": "girl-01",
+      "verdict": "pass",
+      "reason": "Six light/dark contact-sheet frames show the same seated girl tying shoes with clear pose variation. Figures are intact and separated, the Hebrew caption is readable in every frame, and there are no visible source hair remnants, detached halo bits, merged neighbors, or cut limbs. Static-sheet review does not establish real playback timing.",
+      "evidence": "contact-sheet.jpg frames 0-5, light and dark rows"
+    },
+    {
+      "id": "girl-02",
+      "verdict": "pass",
+      "reason": "Six celebration frames preserve the same girl, dress, face, and shoes while varying arm and jump poses. Bodies and limbs remain inside their frame slots, the Hebrew caption is readable, and no detached artifacts or source remnants are visible. Static-sheet review does not establish real playback timing.",
+      "evidence": "contact-sheet.jpg frames 0-5, light and dark rows"
+    },
+    {
+      "id": "girl-03",
+      "verdict": "pass",
+      "reason": "Six seated gesture frames show distinct hand and arm positions with a stable character identity. Figures are complete and separated, the Hebrew caption remains readable, and no hair/halo remnants, neighbor merges, or clipped limbs are visible. Static-sheet review does not establish real playback timing.",
+      "evidence": "contact-sheet.jpg frames 0-5, light and dark rows"
+    },
+    {
+      "id": "girl-04",
+      "verdict": "pass",
+      "reason": "Six raised-arm jumping/cheering frames show coherent pose variation and consistent identity. Hands, feet, hair, and dress remain intact within each slot; the Hebrew caption is readable and there are no visible detached or merged artifacts. Static-sheet review does not establish real playback timing.",
+      "evidence": "contact-sheet.jpg frames 0-5, light and dark rows"
+    },
+    {
+      "id": "girl-05",
+      "verdict": "pass",
+      "reason": "Six stool-standing frames keep the same girl and stool while varying arm and expression poses. The stool and limbs are complete and separated, the Hebrew caption is readable, and no source hair/halo remnants or neighboring-frame merges are visible. Static-sheet review does not establish real playback timing.",
+      "evidence": "contact-sheet.jpg frames 0-5, light and dark rows"
+    },
+    {
+      "id": "girl-06",
+      "verdict": "pass",
+      "reason": "Six thinking-gesture frames preserve the same girl, dress, face, and proportions with distinct hand/head poses. Figures are intact and separated, the Hebrew caption is readable in both rows, and no visible source remnants, merged neighbors, or cut limbs are present. Static-sheet review does not establish real playback timing.",
+      "evidence": "contact-sheet.jpg frames 0-5, light and dark rows"
+    }
+  ]
+}

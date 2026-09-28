@@ -1,0 +1,9 @@
+Use case: illustration-story
+Asset type: source animation strip for a WhatsApp sticker.
+Input image: exact reference image for identity, hair, face, skin, green Kido apron over floral blouse, proportions, and hand-drawn watercolor style. The Hebrew caption is a separate static layer and must not be reproduced in the generated strip.
+
+Create one wide horizontal transparent PNG sprite strip with exactly six distinct, fully articulated full-body poses of the same toddler girl, each in its own equal panel from left to right. Use generous transparent gutters and margins around every silhouette; no silhouette touches a neighboring silhouette or panel edge. Keep the same scale and baseline in all six panels. Preserve source furniture if any, but the supplied reference has no furniture; add no toys, props, objects, or playthings.
+
+Situation: extreme cute dramatic boredom matching the caption “משעמם לי!!”. Sequence meaningful motion: limp slumped seated pose with head hanging; slight tired head lift with slow sigh; head tilted aside with glazed eyes and sagging shoulders; deeper slump with loose dangling arm and tired open mouth; weakly lifting one hand then letting it fall; tired head lift and tiny sigh returning toward the starting bored slump. Every pose must visibly differ and communicate bored ennui. Do not copy poses and do not fake motion by rotating or translating a whole static sprite.
+
+Transparent background. No text, Hebrew caption, added logos, toys, zZz, speech bubbles, decorative effects, shadows, background, guides, panel borders, clipping, cropped limbs, or extra characters. Complete anatomy in every pose, long curly dark-brown hair consistent with the reference, same outfit and identity throughout. Clean isolated sticker art; preserve the source’s white sticker outline style.

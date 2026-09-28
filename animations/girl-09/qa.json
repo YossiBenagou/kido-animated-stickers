@@ -1,0 +1,18 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 253810,
+    "frames": 6,
+    "duration_ms": 1440,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "girl-09",
+    "verdict": "pass",
+    "reason": "Six complete separated bed and girl groups show meaningful sleepy head, eyelid, yawn and arm gestures. Identity and bedding remain consistent, caption עוד שנייה!! is intact, and no neighbor fragments, detached motion marks or clipping are visible. Static-sheet review does not establish playback timing.",
+    "evidence": "contact-sheet.jpg frames 0-5, light and dark rows"
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

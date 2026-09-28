@@ -625,9 +625,16 @@
       "caption": "אני רוצה לבד!",
       "description": "A toddler aged 2-3 with curly dark brown hair, sitting on the floor with one bare foot extended forward. ONE small shoe is already sitting empty on the floor next to them (visible). The toddler holds the OTHER small shoe in both tiny hands, dramatically focused on trying to put it onto their bare extended foot themselves. Tongue sticking out in pure concentration. Pure independent toddler determination. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/01.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/girl-01/frames/00.png",
+        "animations/girl-01/frames/01.png",
+        "animations/girl-01/frames/02.png",
+        "animations/girl-01/frames/03.png",
+        "animations/girl-01/frames/04.png",
+        "animations/girl-01/frames/05.png"
+      ],
+      "output": "dist/girl-01/01.webp"
     },
     {
       "id": "girl-02",
@@ -636,9 +643,16 @@
       "caption": "הצלחתי!!!",
       "description": "A toddler aged 2-3 with curly dark brown hair, RADIATING PURE OVERWHELMING JOY — both tiny fists raised triumphantly high above the head in a victory pose, the BIGGEST possible open-mouthed grin showing baby teeth, eyes squeezed almost shut from the intensity of happiness with crinkles at the corners, cheeks lifted high in a huge smile, head tilted up to the sky, slightly jumping with excitement. Glowing aura of accomplishment. Tiny stars and sparkles bursting around them celebrating the win. The toddler looks absolutely thrilled and proud — their whole body screams 'I JUST DID IT!'. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/02.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/girl-02/frames/00.png",
+        "animations/girl-02/frames/01.png",
+        "animations/girl-02/frames/02.png",
+        "animations/girl-02/frames/03.png",
+        "animations/girl-02/frames/04.png",
+        "animations/girl-02/frames/05.png"
+      ],
+      "output": "dist/girl-01/02.webp"
     },
     {
       "id": "girl-03",
@@ -647,9 +661,16 @@
       "caption": "תני לי!!",
       "description": "A toddler aged 2-3 with curly dark brown hair, small hand reaching out forward demandingly with palm up, eyes locked on something they want, mouth slightly open in anticipation. Direct toddler 'gimme!' demand. Empty white background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/03.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/girl-03/frames/00.png",
+        "animations/girl-03/frames/01.png",
+        "animations/girl-03/frames/02.png",
+        "animations/girl-03/frames/03.png",
+        "animations/girl-03/frames/04.png",
+        "animations/girl-03/frames/05.png"
+      ],
+      "output": "dist/girl-01/03.webp"
     },
     {
       "id": "girl-04",
@@ -658,9 +679,16 @@
       "caption": "עוד! עוד!!",
       "description": "A toddler aged 2-3 with curly dark brown hair clapping hands excitedly above their head, mouth wide open in pure delight, eyes squinted with joy, slightly jumping. Communicates 'again! again! again!' with infectious enthusiasm. The toddler wears a LIGHT-COLORED apron (cream, soft beige, or pale sage) so that the embroidered Kido logo on the apron pocket appears in DARK CHARCOAL THREAD for strong contrast. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/04.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/girl-04/frames/00.png",
+        "animations/girl-04/frames/01.png",
+        "animations/girl-04/frames/02.png",
+        "animations/girl-04/frames/03.png",
+        "animations/girl-04/frames/04.png",
+        "animations/girl-04/frames/05.png"
+      ],
+      "output": "dist/girl-01/04.webp"
     },
     {
       "id": "girl-05",
@@ -669,9 +697,16 @@
       "caption": "אני אלופה!",
       "description": "A toddler aged 2-3 with curly dark brown hair successfully standing on top of a small wooden Montessori stool, both arms raised in V-for-victory, triumphant beaming smile, eyes bright. Pure champion moment. Empty white background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/5.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/girl-05/frames/00.png",
+        "animations/girl-05/frames/01.png",
+        "animations/girl-05/frames/02.png",
+        "animations/girl-05/frames/03.png",
+        "animations/girl-05/frames/04.png",
+        "animations/girl-05/frames/05.png"
+      ],
+      "output": "dist/girl-01/05.webp"
     },
     {
       "id": "girl-06",
@@ -680,9 +715,16 @@
       "caption": "רגע, חושבת...",
       "description": "A toddler GIRL aged 2-3 with long curly dark brown hair, BAREFOOT (NO SHOES), finger pressed thoughtfully to temple, eyes looking up to the side in deep thought, tiny pursed lips. A small bright lightbulb floats above her head. Communicates concentrated thinking. She wears her dress/skirt with apron, but is barefoot. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/06.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/girl-06/frames/00.png",
+        "animations/girl-06/frames/01.png",
+        "animations/girl-06/frames/02.png",
+        "animations/girl-06/frames/03.png",
+        "animations/girl-06/frames/04.png",
+        "animations/girl-06/frames/05.png"
+      ],
+      "output": "dist/girl-01/06.webp"
     },
     {
       "id": "girl-07",
@@ -690,10 +732,17 @@
       "number": "07",
       "caption": "לא אני!!",
       "description": "A toddler GIRL aged 2-3 with long curly dark brown hair standing innocently with both hands behind her back, eyes WIDE OPEN in exaggerated INNOCENCE, eyebrows up, a small comic GLOWING HALO floating above her head, lips pursed in a small 'wasn't me' pout, tilting her head sideways with mock-angelic sweetness. Pure denial-with-halo theater. Empty background, square 1:1 framing.",
-      "reference": "assets/source/collections/גלם_מאוחד/A_בת/07.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/08.png",
+      "status": "complete",
+      "frames": [
+        "animations/girl-07/frames/00.png",
+        "animations/girl-07/frames/01.png",
+        "animations/girl-07/frames/02.png",
+        "animations/girl-07/frames/03.png",
+        "animations/girl-07/frames/04.png",
+        "animations/girl-07/frames/05.png"
+      ],
+      "output": "dist/girl-01/07.webp"
     },
     {
       "id": "girl-08",
@@ -701,10 +750,17 @@
       "number": "08",
       "caption": "אני מתה מרעב!!",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING UPRIGHT (full body visible from head to feet, NOT sitting), BOTH HANDS clutching their soft round belly tightly, looking extremely hungry — mouth slightly open, lips downturned with hunger longing, eyes large and a bit dramatic with that 'I am STARVING' look (intense hunger, but cute not sad), maybe a tiny grumbling-tummy line/sparkle near the belly. Standing posture slightly bent forward at the waist toward the belly, body language of 'oh my belly is SO empty'. The toddler wears a LIGHT-COLORED apron (cream, soft beige, or pale sage) so the embroidered Kido logo on the apron pocket appears in DARK CHARCOAL THREAD for strong contrast. Empty background, square 1:1 framing.",
-      "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/08.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/09.png",
+      "status": "complete",
+      "frames": [
+        "animations/girl-08/frames/00.png",
+        "animations/girl-08/frames/01.png",
+        "animations/girl-08/frames/02.png",
+        "animations/girl-08/frames/03.png",
+        "animations/girl-08/frames/04.png",
+        "animations/girl-08/frames/05.png"
+      ],
+      "output": "dist/girl-01/08.webp"
     },
     {
       "id": "girl-09",
@@ -712,10 +768,17 @@
       "number": "09",
       "caption": "עוד שנייה!!",
       "description": "A toddler aged 2-3 with curly dark brown hair lying face-down on a soft pillow, one arm dangling over the edge of the bed, hair messy, eyes barely open in sleepy protest, blanket askew. Communicates classic morning 'just five more minutes!' protest. Empty white background, square 1:1 framing.",
-      "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/09.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "reference": "assets/source/collections/גלם_מאוחד/A_בת/09.png",
+      "status": "complete",
+      "frames": [
+        "animations/girl-09/frames/00.png",
+        "animations/girl-09/frames/01.png",
+        "animations/girl-09/frames/02.png",
+        "animations/girl-09/frames/03.png",
+        "animations/girl-09/frames/04.png",
+        "animations/girl-09/frames/05.png"
+      ],
+      "output": "dist/girl-01/09.webp"
     },
     {
       "id": "girl-10",
@@ -724,9 +787,16 @@
       "caption": "אני לא עייפה בכלל!",
       "description": "A toddler aged 2-3 with curly dark brown hair rubbing one eye with a tiny fist, while obviously exhausted - eyes half-closed, mouth caught mid-yawn they tried to hide, pajamas slightly visible. Communicates absolute denial of being sleepy. Empty white background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/10.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/girl-10/frames/00.png",
+        "animations/girl-10/frames/01.png",
+        "animations/girl-10/frames/02.png",
+        "animations/girl-10/frames/03.png",
+        "animations/girl-10/frames/04.png",
+        "animations/girl-10/frames/05.png"
+      ],
+      "output": "dist/girl-01/10.webp"
     },
     {
       "id": "girl-11",
@@ -735,7 +805,7 @@
       "caption": "למממהה??",
       "description": "A toddler aged 2-3 with curly dark brown hair in PURE SHOCK AND DISBELIEF — mouth dropped open WIDE in a big stunned 'O' shape, eyes ENORMOUSLY wide and round (almost popping out), eyebrows shot WAY UP high above the eyes in disbelief, both tiny hands raised dramatically up by the cheeks (classic shock pose, palms forward), head tilted slightly back from the surprise, frozen mid-reaction. A tiny shock cloud or sparkles burst around the head emphasizing the stun. The toddler looks utterly bewildered and shocked, like they just heard the most unbelievable news. Empty background, square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/11.png",
-      "status": "pending",
+      "status": "needs_visual_repair",
       "frames": [],
       "output": null
     },
@@ -746,9 +816,16 @@
       "caption": "משעמם לי!!",
       "description": "A toddler GIRL aged 2-3 with long curly dark brown hair COMPLETELY MELTED with extreme boredom — slumped/draped against a wall or piece of furniture, body totally limp like jello, head hanging forward heavily or tilted to the side, eyes half-closed and glazed over staring blankly at nothing in particular (zero focus), mouth slightly hanging open with a tiny dramatic sigh escaping, one tiny arm dangling lifelessly. Body language screams 'I have NOTHING to do'. CRITICAL: NO TOYS visible anywhere in the scene — that's exactly the point (she's bored because there's nothing to play with). Empty background around her, no toys, no objects, no playthings. Square 1:1 framing.",
       "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/12.png",
-      "status": "pending",
-      "frames": [],
-      "output": null
+      "status": "complete",
+      "frames": [
+        "animations/girl-12/frames/00.png",
+        "animations/girl-12/frames/01.png",
+        "animations/girl-12/frames/02.png",
+        "animations/girl-12/frames/03.png",
+        "animations/girl-12/frames/04.png",
+        "animations/girl-12/frames/05.png"
+      ],
+      "output": "dist/girl-01/12.webp"
     },
     {
       "id": "girl-13",
@@ -954,7 +1031,7 @@
       "number": "31",
       "caption": "אויי... שיט!",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING in a small visible BATHROOM SCENE — a clear toilet/potty in the background behind them, light bathroom tiled floor and walls visible. On the bathroom floor in front of the toddler is a CLEAR CARTOON POOP EMOJI 💩 STYLE pile (the classic brown swirly soft-serve poop emoji shape — universally recognized, cute and stylized, NOT realistic, with little smile if appropriate). The toddler stands beside the cartoon poop pile, looking down at it confused, with brown smears (matching the cartoon-emoji style) on their tiny raised hands which they hold up looking at, mouth in a small surprised 'oh!' expression. Pure innocent toilet-training mishap with both the BATHROOM SETTING (toilet visible) and the cartoon poop CLEARLY VISIBLE on the floor — playful and cartoony, NOT gross or realistic. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background outside the bathroom scene, square 1:1 framing.",
-      "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/31.png",
+      "reference": "assets/source/collections/גלם_מאוחד/A_בת/31.png",
       "status": "pending",
       "frames": [],
       "output": null
@@ -965,7 +1042,7 @@
       "number": "32",
       "caption": "אוי לא...",
       "description": "A toddler aged 2-3 with curly dark brown hair STANDING beside an overturned cup of milk that has spilled in a big puddle on the floor, looking down at the disaster with wide shocked eyes and a small open mouth in pure 'oh no!' realization, hands raised slightly. Empty cup tipped on its side beside the puddle. The toddler wears their normal apron with the embroidered Kido logo on the chest pocket. Empty background, square 1:1 framing.",
-      "reference": "assets/source/collections/גלם_מאוחד/A_בת/32.png",
+      "reference": "assets/source/collections/גלם_מאוחד/A_בת/ללא רקע/31.png",
       "status": "pending",
       "frames": [],
       "output": null

@@ -19,8 +19,9 @@ def assemble(identifier):
     scale=min(440/max(x.width for x in sprites),340/max(x.height for x in sprites))
     with Image.open(ROOT/item['reference']) as src:
         src=src.convert('RGBA')
-        cutoff={'boy-kippah-05':.210,'boy-kippah-08':.180,'boy-kippah-25':.200,'boy-kippah-37':.175}.get(identifier,.225)
-        raw_crops={'boy-kippah-55':(115,114,909,306),'girl-07':(164,119,868,255)}
+        cutoff={'boy-kippah-05':.210,'boy-kippah-08':.180,'boy-kippah-25':.200,'boy-kippah-37':.175,'girl-07':.225}.get(identifier,.225)
+        raw_crops={'boy-kippah-55':(115,114,909,306)}
+        raw_crops.update({f'girl-{n}':(164,119,868,274) for n in ('09','31','47','54','55')})
         if identifier in raw_crops:
             left,top,right,bottom=raw_crops[identifier]
             caption=src.crop((round(src.width*left/1024),round(src.height*top/1024),round(src.width*right/1024),round(src.height*bottom/1024)))

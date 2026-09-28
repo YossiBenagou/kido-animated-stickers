@@ -1,0 +1,11 @@
+Use case: illustration-story
+Asset type: animation source strip for a WhatsApp sticker
+Input image: the attached local image is the exact character reference; use it to preserve the same toddler girl's identity, face, warm brown curly hair, pale green Kido overalls, cream floral shirt, proportions, watercolor children's-book linework and colors. Ignore and remove the speech bubble/caption and any existing decorative effects.
+Primary request: create ONE horizontal transparent PNG strip containing EXACTLY SIX complete, distinct, articulated poses of the same seated toddler girl for a meaningful demanding beckoning loop for the Hebrew caption "תני לי!!" ("Give me!!"). Each pose must show her whole body fully visible, with generous transparent gutters between poses and outer margins, same scale and baseline, arranged left-to-right.
+Motion progression across the six poses: (1) eager open-mouth look, one hand lifted palm-up asking; (2) eyebrows rise and fingers curl in a beckoning gesture; (3) elbow bends closer while eyes widen and mouth opens more; (4) arm reaches farther toward the viewer, palm open and fingers spread; (5) hand pulls slightly back then beckons again with curled fingers, impatient eager expression; (6) strongest final reach with palm-up hand, bright eager eyes and open mouth, ready to loop back to pose 1. Keep the seated leg arrangement and red Mary Jane shoe consistent while allowing natural arm, hand, shoulder, eyebrow, eye and mouth changes.
+Composition/framing: wide horizontal strip, six evenly spaced full-body character cells, no overlap, all edges clearly separated, no cropping or clipping.
+Lighting/mood: cheerful, eager, playful, expressive.
+Color palette: match reference exactly.
+Text (verbatim): none; absolutely no Hebrew text, speech bubble, logo, watermark or captions.
+Constraints: genuine transparent background (alpha), preserve character identity and clothing from reference, six and only six distinct poses, meaningful hand/arm/expression animation, each body complete and fully visible, generous transparent gutters and outer margin.
+Avoid: duplicate poses, copied identical sprites, whole-sprite rotation, detached effects, shadows, props, guides, grid lines, borders, background scene, cropped hair/feet/shoe, extra characters, extra limbs or fingers, malformed hands, any text.

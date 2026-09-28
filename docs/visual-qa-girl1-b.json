@@ -1,0 +1,43 @@
+{
+  "stickers": [
+    {
+      "evidence": "contact-sheet.jpg frames 0-5, light and dark rows",
+      "verdict": "pass",
+      "reason": "Six intact frames show meaningful innocent head, eye and shoulder gestures, stable identity and clean readable לא אני!! caption. No source remnants or detached effects. Static-sheet review does not establish playback timing.",
+      "id": "girl-07"
+    },
+    {
+      "evidence": "contact-sheet.jpg frames 0-5, light and dark rows",
+      "verdict": "pass",
+      "reason": "Corrected hungry girl has consistent bow, dress and red shoes with meaningful belly/face gestures in six complete separated frames. Correct אני מתה מרעב!! caption is intact and no halo remains. Static-sheet review does not establish playback timing.",
+      "id": "girl-08"
+    },
+    {
+      "id": "girl-09",
+      "verdict": "pass",
+      "reason": "Six complete separated bed and girl groups show meaningful sleepy head, eyelid, yawn and arm gestures. Identity and bedding remain consistent, caption עוד שנייה!! is intact, and no neighbor fragments, detached motion marks or clipping are visible. Static-sheet review does not establish playback timing.",
+      "evidence": "contact-sheet.jpg frames 0-5, light and dark rows"
+    },
+    {
+      "evidence": "contact-sheet.jpg frames 0-5, light and dark rows",
+      "verdict": "pass",
+      "reason": "Six intact frames preserve identity and shoe prop while showing distinct eye rubbing, drooping eyelids and yawning. Correct caption remains complete; no source hair fragments, merged neighbors or clipped anatomy. Static-sheet review does not establish playback timing.",
+      "id": "girl-10"
+    },
+    {
+      "evidence": "Parent extraction failure and source-strip inspection",
+      "verdict": "fail",
+      "reason": "Parent deterministic extraction and source inspection found all six silhouettes touching and first figure clipped at outer left. Source requires regeneration with smaller figures and wider transparent gutters; no assembled contact sheet accepted.",
+      "id": "girl-11"
+    },
+    {
+      "evidence": "contact-sheet.jpg frames 0-5, light and dark rows",
+      "verdict": "pass",
+      "reason": "Six intact separated bored poses show slumped head, eyelid, mouth and arm changes with consistent identity and complete caption. Readable original Kido apron lettering retained: accepted minor warning by parent. No anatomy clipping, neighbor fragments or source remnants. Static-sheet review does not establish playback timing.",
+      "id": "girl-12",
+      "warnings": [
+        "Original Kido apron lettering retained; parent accepted minor warning."
+      ]
+    }
+  ]
+}

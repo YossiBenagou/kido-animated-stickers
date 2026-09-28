@@ -1,0 +1,14 @@
+{
+  "technical": {
+    "ok": false,
+    "errors": [
+      "Expected six complete character groups"
+    ]
+  },
+  "visual": {
+    "evidence": "Parent extraction failure and source-strip inspection",
+    "verdict": "fail",
+    "reason": "Parent deterministic extraction and source inspection found all six silhouettes touching and first figure clipped at outer left. Source requires regeneration with smaller figures and wider transparent gutters; no assembled contact sheet accepted.",
+    "id": "girl-11"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 239004,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "girl-03",
+    "verdict": "pass",
+    "reason": "Six seated gesture frames show distinct hand and arm positions with a stable character identity. Figures are complete and separated, the Hebrew caption remains readable, and no hair/halo remnants, neighbor merges, or clipped limbs are visible. Static-sheet review does not establish real playback timing.",
+    "evidence": "contact-sheet.jpg frames 0-5, light and dark rows"
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

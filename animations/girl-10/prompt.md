@@ -1,0 +1,14 @@
+Use case: illustration-story
+Asset type: WhatsApp animated sticker source strip
+Primary request: Using the attached reference image as the exact identity, clothing, colors, proportions, and hand-drawn watercolor-cartoon style, create one horizontal transparent PNG strip containing exactly six complete, distinct, articulated full-body poses of the same young curly-haired girl. The situation is “I'm not tired at all!”: she is obviously exhausted while pretending otherwise. Pose sequence: (1) upright but droopy, one eye rubbing with a tiny fist and the other eye half closed, mouth barely open; (2) fist lifts toward the eye, eyelids sinking and head beginning to dip; (3) fist gently rubs the eye, both eyes nearly closed, mouth opening into a yawn; (4) strongest yawn, mouth wide open, head dipped naturally at the neck, rubbing fist still at the eye; (5) fist lowers away from the eye, sleepy eyes reopening only slightly, shoulders sagging; (6) she tries to look alert again but remains exhausted, eyelids drooping and mouth closing after the yawn. Each pose must show meaningful changes in eye state, mouth, head angle, arm and hand position, with natural continuity for a loop.
+Input images: Image 1: exact character reference; preserve the girl's identity, curly brown hair, pale green apron over floral dress, bare feet, red Mary Jane shoe, proportions, linework and warm palette. The Hebrew caption in the reference is context only and must not appear in the generated strip.
+Scene/backdrop: genuinely transparent background; six evenly spaced poses in a single wide horizontal strip, generous transparent gutters between poses and outer margin.
+Subject: one girl only, whole body fully visible in every pose, identical scale and baseline across all six poses.
+Style/medium: polished children's coloring-book illustration with soft watercolor texture, clean dark outlines, consistent character model.
+Composition/framing: wide horizontal six-frame sprite strip, no cropping or clipping; each pose isolated and readable.
+Lighting/mood: soft even illustration lighting; tired, sleepy, gently comic mood.
+Color palette: match the reference exactly, especially brown hair, pale green apron, cream floral fabric, warm skin tones and red shoe.
+Materials/textures: preserve the reference's watercolor paper-like shading and hand-drawn detail.
+Text (verbatim): none.
+Constraints: transparent alpha background; exactly six poses; complete articulated body in each; same character, scale and baseline; eye-rub loop with fist lifting, rubbing and lowering; natural neck head dip; yawning mouth opens then closes; no caption.
+Avoid: text, Hebrew or English lettering, logos, watermark, detached decorative effects, shadows, guides, panels, frames, background scenery, extra characters, duplicate poses, copied identical poses, whole-sprite rotations, cropped limbs, clipped hair, malformed hands or feet.

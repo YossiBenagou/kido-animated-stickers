@@ -1,0 +1,18 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 188686,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "evidence": "contact-sheet.jpg frames 0-5, light and dark rows",
+    "verdict": "pass",
+    "reason": "Six intact frames show meaningful innocent head, eye and shoulder gestures, stable identity and clean readable לא אני!! caption. No source remnants or detached effects. Static-sheet review does not establish playback timing.",
+    "id": "girl-07"
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}

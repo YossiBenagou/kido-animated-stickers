@@ -1,0 +1,18 @@
+{
+  "technical": {
+    "ok": true,
+    "errors": [],
+    "bytes": 243266,
+    "frames": 6,
+    "duration_ms": 1080,
+    "distinct_frames": 6,
+    "transparent": true
+  },
+  "visual": {
+    "id": "girl-01",
+    "verdict": "pass",
+    "reason": "Six light/dark contact-sheet frames show the same seated girl tying shoes with clear pose variation. Figures are intact and separated, the Hebrew caption is readable in every frame, and there are no visible source hair remnants, detached halo bits, merged neighbors, or cut limbs. Static-sheet review does not establish real playback timing.",
+    "evidence": "contact-sheet.jpg frames 0-5, light and dark rows"
+  },
+  "method": "hatch-pet connected components; common scale; preserved original caption"
+}
